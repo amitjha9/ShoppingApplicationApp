@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="72742" started-at="2021-06-20T17:26:37Z" finished-at="2021-06-20T17:27:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="72742" started-at="2021-06-20T17:26:37Z" finished-at="2021-06-20T17:27:50Z">
+      <class name="com.shop.tests.LoginPageTest">
+        <test-method status="PASS" signature="loadConfigFile()[pri:0, instance:com.shop.tests.LoginPageTest@ebc39e]" name="loadConfigFile" is-config="true" duration-ms="59" started-at="2021-06-20T17:26:37Z" finished-at="2021-06-20T17:26:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfigFile -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.shop.tests.LoginPageTest@ebc39e]" name="setUP" is-config="true" duration-ms="13485" started-at="2021-06-20T17:26:37Z" finished-at="2021-06-20T17:26:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="verifyLoginPageTitle()[pri:1, instance:com.shop.tests.LoginPageTest@ebc39e]" name="verifyLoginPageTitle" duration-ms="4236" started-at="2021-06-20T17:26:50Z" finished-at="2021-06-20T17:26:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.shop.tests.LoginPageTest@ebc39e]" name="tearDown" is-config="true" duration-ms="798" started-at="2021-06-20T17:26:55Z" finished-at="2021-06-20T17:26:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.shop.tests.LoginPageTest@ebc39e]" name="setUP" is-config="true" duration-ms="13223" started-at="2021-06-20T17:26:55Z" finished-at="2021-06-20T17:27:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="verifyAlreadyRegisteredText()[pri:2, instance:com.shop.tests.LoginPageTest@ebc39e]" name="verifyAlreadyRegisteredText" duration-ms="2468" started-at="2021-06-20T17:27:09Z" finished-at="2021-06-20T17:27:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAlreadyRegisteredText -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.shop.tests.LoginPageTest@ebc39e]" name="tearDown" is-config="true" duration-ms="821" started-at="2021-06-20T17:27:11Z" finished-at="2021-06-20T17:27:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.shop.tests.LoginPageTest@ebc39e]" name="setUP" is-config="true" duration-ms="12200" started-at="2021-06-20T17:27:12Z" finished-at="2021-06-20T17:27:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="verifyLoginTest()[pri:3, instance:com.shop.tests.LoginPageTest@ebc39e]" name="verifyLoginTest" duration-ms="4457" started-at="2021-06-20T17:27:24Z" finished-at="2021-06-20T17:27:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.shop.tests.LoginPageTest@ebc39e]" name="tearDown" is-config="true" duration-ms="801" started-at="2021-06-20T17:27:29Z" finished-at="2021-06-20T17:27:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.shop.tests.LoginPageTest@ebc39e]" name="setUP" is-config="true" duration-ms="12269" started-at="2021-06-20T17:27:29Z" finished-at="2021-06-20T17:27:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="verifyAccountCreationTest()[pri:4, instance:com.shop.tests.LoginPageTest@ebc39e]" name="verifyAccountCreationTest" duration-ms="7154" started-at="2021-06-20T17:27:42Z" finished-at="2021-06-20T17:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAccountCreationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.shop.tests.LoginPageTest@ebc39e]" name="tearDown" is-config="true" duration-ms="807" started-at="2021-06-20T17:27:49Z" finished-at="2021-06-20T17:27:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.shop.tests.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
